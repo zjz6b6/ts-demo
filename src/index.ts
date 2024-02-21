@@ -1,2 +1,2 @@
 let hello:string = "hello ts";
-console.log(hello);
+document.querySelectorAll(".app")[0].innerHTML = hello;
